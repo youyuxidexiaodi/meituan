@@ -1,0 +1,20 @@
+html{
+  font-size: 50px;
+  width: 100%;
+}
+body{
+  position: relative;
+  min-height: 100vh;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 0.28em;
+}
+p,ul,html,body{
+  margin: 0;
+  padding: 0;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
